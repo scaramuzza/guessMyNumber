@@ -6,16 +6,16 @@ Jogo de adivinhação com o objetivo estimular o jogador a pensar e acertar o n�
 
 ## license
 
-Este código tem o objetivo único de mostrar ao mercado minha evolução como desenvolvedor de software, logo, NÃO é permitido a comercialização, modificação, distribuição e uso privado;
+Este código tem o objetivo único de mostrar ao mercado minha evolução como desenvolvedor de software, logo, **NÃO** é permitido a comercialização, modificação, distribuição e uso privado;
 
 ## keywords
 
 JS => Math.trunc, Math.random, function(), querySelector, textContent, addEventListener, typerof, location.reload();
 
-## preview-desktop
+## preview-1
 
 ![preview](https://github.com/scaramuzza/guessMyNumber/blob/main/going.png)
 
-## preview-mobile
+## preview-2
 
 ![preview](https://github.com/scaramuzza/guessMyNumber/blob/main/winner.png)
