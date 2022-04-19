@@ -14,8 +14,8 @@ JS => Math.trunc, Math.random, function(), querySelector, textContent, addEventL
 
 ## preview-desktop
 
-![preview](https://github.com/scaramuzza/lollipetcare-site/blob/main/lollipetcare-site-desktop.png)
+![preview](https://github.com/scaramuzza/guessMyNumber/blob/main/going.png)
 
 ## preview-mobile
 
-![preview](https://github.com/scaramuzza/lollipetcare-site/blob/main/lollipetcare-site-mobile.png)
+![preview](https://github.com/scaramuzza/guessMyNumber/blob/main/winner.png)
