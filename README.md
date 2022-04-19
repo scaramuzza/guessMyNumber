@@ -10,7 +10,7 @@ Este código tem o objetivo único de mostrar ao mercado minha evolução como d
 
 ## keywords
 
-JS => Math.trunc, Math.random, function(), querySelector, textContent, addEventListener, typerof, location.reload();
+JS => Math.trunc, Math.random, function, querySelector, textContent, addEventListener, typerof, location.reload;
 
 ## preview-1
 
