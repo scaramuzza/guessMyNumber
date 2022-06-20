@@ -19,3 +19,4 @@ JS => Math.trunc, Math.random, function, querySelector, textContent, addEventLis
 ## preview-2
 
 ![preview](https://github.com/scaramuzza/guessMyNumber/blob/main/winner.png)
+hjhj
