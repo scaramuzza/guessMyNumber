@@ -1,4 +1,4 @@
-# guessMyNumber
+# guessMyNumber k
 
 Jogo de adivinhação com o objetivo estimular o jogador a pensar e acertar o número, entre 0 e 20, gerado aleatóriamente pelo sistema. O projeto também conta com um botão reset, um botão de checagem (check), mensagens de estímulo a cada erro, o score e um highscore; 
 
